@@ -1,0 +1,20 @@
+{
+  "name": "rdu",
+  "version": "1.0.0",
+  "description": "redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "weihuang",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
