@@ -1,1 +1,1 @@
-# jest
+# redux &amp; jest
