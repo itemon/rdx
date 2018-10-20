@@ -10,3 +10,9 @@ export const ADD = 1
 export const REMOVE = 2
 
 export const TOGGLE = 3
+
+export default function combine() {
+  return {
+    ADD, REMOVE, TOGGLE
+  }
+}
